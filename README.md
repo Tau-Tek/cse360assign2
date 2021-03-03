@@ -1,2 +1,3 @@
-# cse360assign2
- 
+hello-world
+CSE 360 Hello World git demo
+William Wood
